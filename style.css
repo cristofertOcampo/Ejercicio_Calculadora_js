@@ -1,0 +1,33 @@
+table {
+    background-color: black;
+    border-radius: 15px;
+}
+
+.color_display {
+    background-color: white;
+    color: black;
+    height: 35px;
+    margin: 6px;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.numero {
+    background-color: lightgreen;
+    color: black;
+    width: 55px;
+    height: 35px;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.numero:hover {
+    background-color: aqua;
+    cursor: pointer;
+}
